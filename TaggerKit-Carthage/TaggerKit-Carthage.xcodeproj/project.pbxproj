@@ -25,8 +25,6 @@
 		155CE8CE224E466200B67B39 /* TagCellLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE8BF224E466200B67B39 /* TagCellLayout.swift */; };
 		155CE8CF224E466200B67B39 /* LayoutInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE8C0224E466200B67B39 /* LayoutInfo.swift */; };
 		155CE8D0224E466200B67B39 /* TagCellLayoutDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE8C1224E466200B67B39 /* TagCellLayoutDelegate.swift */; };
-		155CE8D1224E466200B67B39 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 155CE8C2224E466200B67B39 /* .gitkeep */; };
-		155CE8D2224E466200B67B39 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 155CE8C4224E466200B67B39 /* .gitkeep */; };
 		155CE8D3224E466200B67B39 /* removeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 155CE8C5224E466200B67B39 /* removeIcon.png */; };
 		155CE8D4224E466200B67B39 /* addIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 155CE8C6224E466200B67B39 /* addIcon.png */; };
 /* End PBXBuildFile section */
@@ -326,8 +324,6 @@
 			files = (
 				155CE8D4224E466200B67B39 /* addIcon.png in Resources */,
 				155CE8D3224E466200B67B39 /* removeIcon.png in Resources */,
-				155CE8D1224E466200B67B39 /* .gitkeep in Resources */,
-				155CE8D2224E466200B67B39 /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
