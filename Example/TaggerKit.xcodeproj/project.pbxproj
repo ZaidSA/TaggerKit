@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		155CE94A224E4FF800B67B39 /* TaggerKit_Carthage.h in Headers */ = {isa = PBXBuildFile; fileRef = 155CE948224E4FF800B67B39 /* TaggerKit_Carthage.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		155CE94D224E4FF800B67B39 /* TaggerKit_Carthage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 155CE946224E4FF800B67B39 /* TaggerKit_Carthage.framework */; };
-		155CE94E224E4FF800B67B39 /* TaggerKit_Carthage.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 155CE946224E4FF800B67B39 /* TaggerKit_Carthage.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		155CE969224E501500B67B39 /* TKTagCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE956224E501500B67B39 /* TKTagCell.swift */; };
-		155CE96A224E501500B67B39 /* TKTagButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE957224E501500B67B39 /* TKTagButton.swift */; };
-		155CE96B224E501500B67B39 /* TKCollectionView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE959224E501500B67B39 /* TKCollectionView+.swift */; };
-		155CE96C224E501500B67B39 /* TKCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE95A224E501500B67B39 /* TKCollectionView.swift */; };
-		155CE96D224E501500B67B39 /* TKTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE95C224E501500B67B39 /* TKTextField.swift */; };
-		155CE96E224E501500B67B39 /* UIViewController+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE95E224E501500B67B39 /* UIViewController+.swift */; };
-		155CE96F224E501500B67B39 /* LayoutAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE960224E501500B67B39 /* LayoutAlignment.swift */; };
-		155CE970224E501500B67B39 /* TagCellLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE961224E501500B67B39 /* TagCellLayout.swift */; };
-		155CE971224E501500B67B39 /* LayoutInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE962224E501500B67B39 /* LayoutInfo.swift */; };
-		155CE972224E501500B67B39 /* TagCellLayoutDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155CE963224E501500B67B39 /* TagCellLayoutDelegate.swift */; };
-		155CE975224E501500B67B39 /* removeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 155CE967224E501500B67B39 /* removeIcon.png */; };
-		155CE976224E501500B67B39 /* addIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 155CE968224E501500B67B39 /* addIcon.png */; };
+		1565C73A224E51D700CC7EBC /* TaggerKit_Carthage.h in Headers */ = {isa = PBXBuildFile; fileRef = 1565C738224E51D700CC7EBC /* TaggerKit_Carthage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1565C73D224E51D700CC7EBC /* TaggerKit_Carthage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1565C736224E51D700CC7EBC /* TaggerKit_Carthage.framework */; };
+		1565C73E224E51D700CC7EBC /* TaggerKit_Carthage.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 1565C736224E51D700CC7EBC /* TaggerKit_Carthage.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		1565C759224E51E400CC7EBC /* TKTagCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C746224E51E400CC7EBC /* TKTagCell.swift */; };
+		1565C75A224E51E400CC7EBC /* TKTagButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C747224E51E400CC7EBC /* TKTagButton.swift */; };
+		1565C75B224E51E400CC7EBC /* TKCollectionView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C749224E51E400CC7EBC /* TKCollectionView+.swift */; };
+		1565C75C224E51E400CC7EBC /* TKCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C74A224E51E400CC7EBC /* TKCollectionView.swift */; };
+		1565C75D224E51E400CC7EBC /* TKTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C74C224E51E400CC7EBC /* TKTextField.swift */; };
+		1565C75E224E51E400CC7EBC /* UIViewController+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C74E224E51E400CC7EBC /* UIViewController+.swift */; };
+		1565C75F224E51E400CC7EBC /* LayoutAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C750224E51E400CC7EBC /* LayoutAlignment.swift */; };
+		1565C760224E51E400CC7EBC /* TagCellLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C751224E51E400CC7EBC /* TagCellLayout.swift */; };
+		1565C761224E51E400CC7EBC /* LayoutInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C752224E51E400CC7EBC /* LayoutInfo.swift */; };
+		1565C762224E51E400CC7EBC /* TagCellLayoutDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1565C753224E51E400CC7EBC /* TagCellLayoutDelegate.swift */; };
+		1565C765224E51E400CC7EBC /* removeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1565C757224E51E400CC7EBC /* removeIcon.png */; };
+		1565C766224E51E400CC7EBC /* addIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1565C758224E51E400CC7EBC /* addIcon.png */; };
 		239BD674F021B101F00EA406 /* Pods_TaggerKit_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50AAF459782120205588B1F6 /* Pods_TaggerKit_Example.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
@@ -34,11 +34,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		155CE94B224E4FF800B67B39 /* PBXContainerItemProxy */ = {
+		1565C73B224E51D700CC7EBC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 607FACC81AFB9204008FA782 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 155CE945224E4FF800B67B39;
+			remoteGlobalIDString = 1565C735224E51D700CC7EBC;
 			remoteInfo = "TaggerKit-Carthage";
 		};
 		607FACE61AFB9204008FA782 /* PBXContainerItemProxy */ = {
@@ -51,13 +51,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		155CE952224E4FF800B67B39 /* Embed Frameworks */ = {
+		1565C742224E51D700CC7EBC /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				155CE94E224E4FF800B67B39 /* TaggerKit_Carthage.framework in Embed Frameworks */,
+				1565C73E224E51D700CC7EBC /* TaggerKit_Carthage.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -68,23 +68,23 @@
 		05ACF6E87E1E06316954AE99 /* Pods-TaggerKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaggerKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TaggerKit_Example/Pods-TaggerKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		0B9BC21E13CAE45E85BA8FC6 /* TaggerKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TaggerKit.podspec; path = ../TaggerKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1008145CFF3C712752966676 /* Pods-TaggerKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaggerKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TaggerKit_Example/Pods-TaggerKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		155CE946224E4FF800B67B39 /* TaggerKit_Carthage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TaggerKit_Carthage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		155CE948224E4FF800B67B39 /* TaggerKit_Carthage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TaggerKit_Carthage.h; sourceTree = "<group>"; };
-		155CE949224E4FF800B67B39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		155CE956224E501500B67B39 /* TKTagCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKTagCell.swift; sourceTree = "<group>"; };
-		155CE957224E501500B67B39 /* TKTagButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKTagButton.swift; sourceTree = "<group>"; };
-		155CE959224E501500B67B39 /* TKCollectionView+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TKCollectionView+.swift"; sourceTree = "<group>"; };
-		155CE95A224E501500B67B39 /* TKCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKCollectionView.swift; sourceTree = "<group>"; };
-		155CE95C224E501500B67B39 /* TKTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKTextField.swift; sourceTree = "<group>"; };
-		155CE95E224E501500B67B39 /* UIViewController+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+.swift"; sourceTree = "<group>"; };
-		155CE960224E501500B67B39 /* LayoutAlignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutAlignment.swift; sourceTree = "<group>"; };
-		155CE961224E501500B67B39 /* TagCellLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagCellLayout.swift; sourceTree = "<group>"; };
-		155CE962224E501500B67B39 /* LayoutInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutInfo.swift; sourceTree = "<group>"; };
-		155CE963224E501500B67B39 /* TagCellLayoutDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagCellLayoutDelegate.swift; sourceTree = "<group>"; };
-		155CE964224E501500B67B39 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
-		155CE966224E501500B67B39 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
-		155CE967224E501500B67B39 /* removeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = removeIcon.png; sourceTree = "<group>"; };
-		155CE968224E501500B67B39 /* addIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addIcon.png; sourceTree = "<group>"; };
+		1565C736224E51D700CC7EBC /* TaggerKit_Carthage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TaggerKit_Carthage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1565C738224E51D700CC7EBC /* TaggerKit_Carthage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TaggerKit_Carthage.h; sourceTree = "<group>"; };
+		1565C739224E51D700CC7EBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1565C746224E51E400CC7EBC /* TKTagCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKTagCell.swift; sourceTree = "<group>"; };
+		1565C747224E51E400CC7EBC /* TKTagButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKTagButton.swift; sourceTree = "<group>"; };
+		1565C749224E51E400CC7EBC /* TKCollectionView+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TKCollectionView+.swift"; sourceTree = "<group>"; };
+		1565C74A224E51E400CC7EBC /* TKCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKCollectionView.swift; sourceTree = "<group>"; };
+		1565C74C224E51E400CC7EBC /* TKTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKTextField.swift; sourceTree = "<group>"; };
+		1565C74E224E51E400CC7EBC /* UIViewController+.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+.swift"; sourceTree = "<group>"; };
+		1565C750224E51E400CC7EBC /* LayoutAlignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutAlignment.swift; sourceTree = "<group>"; };
+		1565C751224E51E400CC7EBC /* TagCellLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagCellLayout.swift; sourceTree = "<group>"; };
+		1565C752224E51E400CC7EBC /* LayoutInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutInfo.swift; sourceTree = "<group>"; };
+		1565C753224E51E400CC7EBC /* TagCellLayoutDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TagCellLayoutDelegate.swift; sourceTree = "<group>"; };
+		1565C754224E51E400CC7EBC /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		1565C756224E51E400CC7EBC /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		1565C757224E51E400CC7EBC /* removeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = removeIcon.png; sourceTree = "<group>"; };
+		1565C758224E51E400CC7EBC /* addIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addIcon.png; sourceTree = "<group>"; };
 		2843B55A192120787E312AE7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		4BB3FD6BA656DC766D9ECA5E /* Pods_TaggerKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TaggerKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		50AAF459782120205588B1F6 /* Pods_TaggerKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TaggerKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -105,7 +105,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		155CE943224E4FF800B67B39 /* Frameworks */ = {
+		1565C733224E51D700CC7EBC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -118,7 +118,7 @@
 			files = (
 				FA78063922391C2900EFB195 /* TaggerKit.framework in Frameworks */,
 				239BD674F021B101F00EA406 /* Pods_TaggerKit_Example.framework in Frameworks */,
-				155CE94D224E4FF800B67B39 /* TaggerKit_Carthage.framework in Frameworks */,
+				1565C73D224E51D700CC7EBC /* TaggerKit_Carthage.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -133,90 +133,90 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		155CE947224E4FF800B67B39 /* TaggerKit-Carthage */ = {
+		1565C737224E51D700CC7EBC /* TaggerKit-Carthage */ = {
 			isa = PBXGroup;
 			children = (
-				155CE965224E501500B67B39 /* Assets */,
-				155CE953224E501500B67B39 /* Classes */,
-				155CE948224E4FF800B67B39 /* TaggerKit_Carthage.h */,
-				155CE949224E4FF800B67B39 /* Info.plist */,
+				1565C755224E51E400CC7EBC /* Assets */,
+				1565C743224E51E400CC7EBC /* Classes */,
+				1565C738224E51D700CC7EBC /* TaggerKit_Carthage.h */,
+				1565C739224E51D700CC7EBC /* Info.plist */,
 			);
 			path = "TaggerKit-Carthage";
 			sourceTree = "<group>";
 		};
-		155CE953224E501500B67B39 /* Classes */ = {
+		1565C743224E51E400CC7EBC /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				155CE954224E501500B67B39 /* Source */,
-				155CE964224E501500B67B39 /* .gitkeep */,
+				1565C744224E51E400CC7EBC /* Source */,
+				1565C754224E51E400CC7EBC /* .gitkeep */,
 			);
 			name = Classes;
 			path = ../../TaggerKit/Classes;
 			sourceTree = "<group>";
 		};
-		155CE954224E501500B67B39 /* Source */ = {
+		1565C744224E51E400CC7EBC /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				155CE955224E501500B67B39 /* CollectionViewCell */,
-				155CE958224E501500B67B39 /* CollectionView */,
-				155CE95B224E501500B67B39 /* TextField */,
-				155CE95D224E501500B67B39 /* Extensions */,
-				155CE95F224E501500B67B39 /* TagLayout */,
+				1565C745224E51E400CC7EBC /* CollectionViewCell */,
+				1565C748224E51E400CC7EBC /* CollectionView */,
+				1565C74B224E51E400CC7EBC /* TextField */,
+				1565C74D224E51E400CC7EBC /* Extensions */,
+				1565C74F224E51E400CC7EBC /* TagLayout */,
 			);
 			path = Source;
 			sourceTree = "<group>";
 		};
-		155CE955224E501500B67B39 /* CollectionViewCell */ = {
+		1565C745224E51E400CC7EBC /* CollectionViewCell */ = {
 			isa = PBXGroup;
 			children = (
-				155CE956224E501500B67B39 /* TKTagCell.swift */,
-				155CE957224E501500B67B39 /* TKTagButton.swift */,
+				1565C746224E51E400CC7EBC /* TKTagCell.swift */,
+				1565C747224E51E400CC7EBC /* TKTagButton.swift */,
 			);
 			path = CollectionViewCell;
 			sourceTree = "<group>";
 		};
-		155CE958224E501500B67B39 /* CollectionView */ = {
+		1565C748224E51E400CC7EBC /* CollectionView */ = {
 			isa = PBXGroup;
 			children = (
-				155CE959224E501500B67B39 /* TKCollectionView+.swift */,
-				155CE95A224E501500B67B39 /* TKCollectionView.swift */,
+				1565C749224E51E400CC7EBC /* TKCollectionView+.swift */,
+				1565C74A224E51E400CC7EBC /* TKCollectionView.swift */,
 			);
 			path = CollectionView;
 			sourceTree = "<group>";
 		};
-		155CE95B224E501500B67B39 /* TextField */ = {
+		1565C74B224E51E400CC7EBC /* TextField */ = {
 			isa = PBXGroup;
 			children = (
-				155CE95C224E501500B67B39 /* TKTextField.swift */,
+				1565C74C224E51E400CC7EBC /* TKTextField.swift */,
 			);
 			path = TextField;
 			sourceTree = "<group>";
 		};
-		155CE95D224E501500B67B39 /* Extensions */ = {
+		1565C74D224E51E400CC7EBC /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				155CE95E224E501500B67B39 /* UIViewController+.swift */,
+				1565C74E224E51E400CC7EBC /* UIViewController+.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		155CE95F224E501500B67B39 /* TagLayout */ = {
+		1565C74F224E51E400CC7EBC /* TagLayout */ = {
 			isa = PBXGroup;
 			children = (
-				155CE960224E501500B67B39 /* LayoutAlignment.swift */,
-				155CE961224E501500B67B39 /* TagCellLayout.swift */,
-				155CE962224E501500B67B39 /* LayoutInfo.swift */,
-				155CE963224E501500B67B39 /* TagCellLayoutDelegate.swift */,
+				1565C750224E51E400CC7EBC /* LayoutAlignment.swift */,
+				1565C751224E51E400CC7EBC /* TagCellLayout.swift */,
+				1565C752224E51E400CC7EBC /* LayoutInfo.swift */,
+				1565C753224E51E400CC7EBC /* TagCellLayoutDelegate.swift */,
 			);
 			path = TagLayout;
 			sourceTree = "<group>";
 		};
-		155CE965224E501500B67B39 /* Assets */ = {
+		1565C755224E51E400CC7EBC /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				155CE966224E501500B67B39 /* .gitkeep */,
-				155CE967224E501500B67B39 /* removeIcon.png */,
-				155CE968224E501500B67B39 /* addIcon.png */,
+				1565C756224E51E400CC7EBC /* .gitkeep */,
+				1565C757224E51E400CC7EBC /* removeIcon.png */,
+				1565C758224E51E400CC7EBC /* addIcon.png */,
 			);
 			name = Assets;
 			path = ../../TaggerKit/Assets;
@@ -238,7 +238,7 @@
 				607FACF51AFB993E008FA782 /* Podspec Metadata */,
 				607FACD21AFB9204008FA782 /* Example for TaggerKit */,
 				607FACE81AFB9204008FA782 /* Tests */,
-				155CE947224E4FF800B67B39 /* TaggerKit-Carthage */,
+				1565C737224E51D700CC7EBC /* TaggerKit-Carthage */,
 				607FACD11AFB9204008FA782 /* Products */,
 				CB51E9996697B1567A9E015F /* Pods */,
 				2D7078F63E1F2BD399097465 /* Frameworks */,
@@ -250,7 +250,7 @@
 			children = (
 				607FACD01AFB9204008FA782 /* TaggerKit_Example.app */,
 				607FACE51AFB9204008FA782 /* TaggerKit_Tests.xctest */,
-				155CE946224E4FF800B67B39 /* TaggerKit_Carthage.framework */,
+				1565C736224E51D700CC7EBC /* TaggerKit_Carthage.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -318,25 +318,25 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		155CE941224E4FF800B67B39 /* Headers */ = {
+		1565C731224E51D700CC7EBC /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				155CE94A224E4FF800B67B39 /* TaggerKit_Carthage.h in Headers */,
+				1565C73A224E51D700CC7EBC /* TaggerKit_Carthage.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		155CE945224E4FF800B67B39 /* TaggerKit-Carthage */ = {
+		1565C735224E51D700CC7EBC /* TaggerKit-Carthage */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 155CE951224E4FF800B67B39 /* Build configuration list for PBXNativeTarget "TaggerKit-Carthage" */;
+			buildConfigurationList = 1565C741224E51D700CC7EBC /* Build configuration list for PBXNativeTarget "TaggerKit-Carthage" */;
 			buildPhases = (
-				155CE941224E4FF800B67B39 /* Headers */,
-				155CE942224E4FF800B67B39 /* Sources */,
-				155CE943224E4FF800B67B39 /* Frameworks */,
-				155CE944224E4FF800B67B39 /* Resources */,
+				1565C731224E51D700CC7EBC /* Headers */,
+				1565C732224E51D700CC7EBC /* Sources */,
+				1565C733224E51D700CC7EBC /* Frameworks */,
+				1565C734224E51D700CC7EBC /* Resources */,
 			);
 			buildRules = (
 			);
@@ -344,7 +344,7 @@
 			);
 			name = "TaggerKit-Carthage";
 			productName = "TaggerKit-Carthage";
-			productReference = 155CE946224E4FF800B67B39 /* TaggerKit_Carthage.framework */;
+			productReference = 1565C736224E51D700CC7EBC /* TaggerKit_Carthage.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		607FACCF1AFB9204008FA782 /* TaggerKit_Example */ = {
@@ -356,12 +356,12 @@
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
 				C059C035994F019883ED444C /* [CP] Embed Pods Frameworks */,
-				155CE952224E4FF800B67B39 /* Embed Frameworks */,
+				1565C742224E51D700CC7EBC /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				155CE94C224E4FF800B67B39 /* PBXTargetDependency */,
+				1565C73C224E51D700CC7EBC /* PBXTargetDependency */,
 			);
 			name = TaggerKit_Example;
 			productName = TaggerKit;
@@ -397,7 +397,7 @@
 				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					155CE945224E4FF800B67B39 = {
+					1565C735224E51D700CC7EBC = {
 						CreatedOnToolsVersion = 10.1;
 						ProvisioningStyle = Automatic;
 					};
@@ -427,18 +427,18 @@
 			targets = (
 				607FACCF1AFB9204008FA782 /* TaggerKit_Example */,
 				607FACE41AFB9204008FA782 /* TaggerKit_Tests */,
-				155CE945224E4FF800B67B39 /* TaggerKit-Carthage */,
+				1565C735224E51D700CC7EBC /* TaggerKit-Carthage */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		155CE944224E4FF800B67B39 /* Resources */ = {
+		1565C734224E51D700CC7EBC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				155CE976224E501500B67B39 /* addIcon.png in Resources */,
-				155CE975224E501500B67B39 /* removeIcon.png in Resources */,
+				1565C766224E51E400CC7EBC /* addIcon.png in Resources */,
+				1565C765224E51E400CC7EBC /* removeIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -527,20 +527,20 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		155CE942224E4FF800B67B39 /* Sources */ = {
+		1565C732224E51D700CC7EBC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				155CE970224E501500B67B39 /* TagCellLayout.swift in Sources */,
-				155CE972224E501500B67B39 /* TagCellLayoutDelegate.swift in Sources */,
-				155CE96B224E501500B67B39 /* TKCollectionView+.swift in Sources */,
-				155CE969224E501500B67B39 /* TKTagCell.swift in Sources */,
-				155CE96E224E501500B67B39 /* UIViewController+.swift in Sources */,
-				155CE96A224E501500B67B39 /* TKTagButton.swift in Sources */,
-				155CE96F224E501500B67B39 /* LayoutAlignment.swift in Sources */,
-				155CE96C224E501500B67B39 /* TKCollectionView.swift in Sources */,
-				155CE971224E501500B67B39 /* LayoutInfo.swift in Sources */,
-				155CE96D224E501500B67B39 /* TKTextField.swift in Sources */,
+				1565C760224E51E400CC7EBC /* TagCellLayout.swift in Sources */,
+				1565C762224E51E400CC7EBC /* TagCellLayoutDelegate.swift in Sources */,
+				1565C75B224E51E400CC7EBC /* TKCollectionView+.swift in Sources */,
+				1565C759224E51E400CC7EBC /* TKTagCell.swift in Sources */,
+				1565C75E224E51E400CC7EBC /* UIViewController+.swift in Sources */,
+				1565C75A224E51E400CC7EBC /* TKTagButton.swift in Sources */,
+				1565C75F224E51E400CC7EBC /* LayoutAlignment.swift in Sources */,
+				1565C75C224E51E400CC7EBC /* TKCollectionView.swift in Sources */,
+				1565C761224E51E400CC7EBC /* LayoutInfo.swift in Sources */,
+				1565C75D224E51E400CC7EBC /* TKTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -564,10 +564,10 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		155CE94C224E4FF800B67B39 /* PBXTargetDependency */ = {
+		1565C73C224E51D700CC7EBC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 155CE945224E4FF800B67B39 /* TaggerKit-Carthage */;
-			targetProxy = 155CE94B224E4FF800B67B39 /* PBXContainerItemProxy */;
+			target = 1565C735224E51D700CC7EBC /* TaggerKit-Carthage */;
+			targetProxy = 1565C73B224E51D700CC7EBC /* PBXContainerItemProxy */;
 		};
 		607FACE71AFB9204008FA782 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -596,7 +596,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		155CE94F224E4FF800B67B39 /* Debug */ = {
+		1565C73F224E51D700CC7EBC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
@@ -631,7 +631,7 @@
 			};
 			name = Debug;
 		};
-		155CE950224E4FF800B67B39 /* Release */ = {
+		1565C740224E51D700CC7EBC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ANALYZER_NONNULL = YES;
@@ -843,11 +843,11 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		155CE951224E4FF800B67B39 /* Build configuration list for PBXNativeTarget "TaggerKit-Carthage" */ = {
+		1565C741224E51D700CC7EBC /* Build configuration list for PBXNativeTarget "TaggerKit-Carthage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				155CE94F224E4FF800B67B39 /* Debug */,
-				155CE950224E4FF800B67B39 /* Release */,
+				1565C73F224E51D700CC7EBC /* Debug */,
+				1565C740224E51D700CC7EBC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

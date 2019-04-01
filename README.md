@@ -33,6 +33,8 @@ If you are experiencing any problem with that version in your project, either se
 pod 'TaggerKit', '~> 0.4.1'
 ```
 
+## Carthage
+
 
 ## Setup
 

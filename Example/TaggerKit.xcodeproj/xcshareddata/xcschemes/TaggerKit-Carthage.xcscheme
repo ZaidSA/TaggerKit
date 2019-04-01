@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "155CE945224E4FF800B67B39"
+               BlueprintIdentifier = "1565C735224E51D700CC7EBC"
                BuildableName = "TaggerKit_Carthage.framework"
                BlueprintName = "TaggerKit-Carthage"
                ReferencedContainer = "container:TaggerKit.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "155CE945224E4FF800B67B39"
+            BlueprintIdentifier = "1565C735224E51D700CC7EBC"
             BuildableName = "TaggerKit_Carthage.framework"
             BlueprintName = "TaggerKit-Carthage"
             ReferencedContainer = "container:TaggerKit.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "155CE945224E4FF800B67B39"
+            BlueprintIdentifier = "1565C735224E51D700CC7EBC"
             BuildableName = "TaggerKit_Carthage.framework"
             BlueprintName = "TaggerKit-Carthage"
             ReferencedContainer = "container:TaggerKit.xcodeproj">
